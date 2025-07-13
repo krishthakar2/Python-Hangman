@@ -11,8 +11,8 @@ A Python-based console Hangman game designed for solo play. The game randomly se
 - If the guess is correct, the letter is revealed in the word.
 - If the guess is wrong, the player loses a life.
 - The game continues until:
-  - The player correctly guesses the entire word (🎉 win), or
-  - The player runs out of lives (💀 game over).
+  - The player correctly guesses the entire word (wins), or
+  - The player runs out of lives (game over).
 
 ---
 
